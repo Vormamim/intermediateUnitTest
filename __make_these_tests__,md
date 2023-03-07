@@ -8,10 +8,13 @@ AND
 
 Write a test called evenSumTest.py
 
-Write a unit test for a function that 
-- takes in a list of integers and returns the sum of the even integers in the list. 
+# The Test
 
-Test for
+1) Write a unit test for a function that 
+- takes in a list of integers and returns the sum of the even integers in the list.
+- uses Try-Except to deal with input errors
+
+2) Test for
 - an empty list,
 - list with only odd integers
 - and a list with both odd and even integers.
