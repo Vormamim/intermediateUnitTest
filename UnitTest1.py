@@ -2,6 +2,8 @@
 
 import unittest
 
+# unittest in an inbuilt module in Python that provides a rich set of tools for constructing and running tests.
+
 class TestHighestDuplicateNumber(unittest.TestCase):
     
     def test_duplicate_number(self):
