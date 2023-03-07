@@ -1,6 +1,8 @@
 # Sample Unit Test
 
-import unittest
+import unittest 
+from main import highest_duplicate_number
+
 
 # unittest in an inbuilt module in Python that provides a rich set of tools for constructing and running tests.
 
